@@ -52,6 +52,5 @@ These visualizations help identify peak sales periods and high-performing produc
 
 (https://github.com/Bhavanadh)
 
-# License
 
 
