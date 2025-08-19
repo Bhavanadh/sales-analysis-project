@@ -8,17 +8,10 @@ It analyzes monthly sales trends and identifies top-performing product categorie
 - pandas
 - matplotlib
 - seaborn
-- Jupyter Notebook (`.ipynb`)
+- Jupyter Notebook ('.ipynb')
 
-## 📁 Folder Structure
-sales-analysis/
-├── data/
-│   └── superstore.csv
-├── sales_analysis.ipynb
-├── README.md
-└── requirements.txt
 
-##  Key Features
+#  Key Features
 
 - Cleans and preprocesses the dataset
 - Converts order dates to datetime format
@@ -27,40 +20,38 @@ sales-analysis/
 - Monthly sales trends
 - Top 5 product categories by revenues.
 
-## Dataset Used
+# Dataset Used
 
 We use a cleaned-up version of the Global Superstore dataset. Columns include:
-- `Order Date`
-- `Sales`
-- `Category`
-- `Profit` *(optional)*
-- `Sub-Category`, `Region`, `Segment`, etc.
+- 'Order Date
+- 'Sales'
+- 'Category'
+- 'Profit'
+- 'Sub-Categor'y, 'Region', 'Segment', etc.
  This dataset is uploaded manually to Colab during runtime.
 
-##  How to Run This Project
+# How to Run This Project
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com)
 2. Upload the `superstore.csv` file manually (via the sidebar)
 3. Run all cells to see analysis and charts
 
-##  Sample Visualizations
+# Sample Visualizations
 
 - Monthly Sales by Year  
 - Top Product Categories by Revenue  
-
 These visualizations help identify peak sales periods and high-performing product lines.
 
-##  Future Improvements
+# Future Improvements
 
 - Add profit trend analysis
 - Segment-wise or region-wise breakdown
 - Dashboard with interactive plots (e.g., Plotly)
 
-## ✅ Author
+# Author
 
 (https://github.com/Bhavanadh)
 
-## 📃 License
+# License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
